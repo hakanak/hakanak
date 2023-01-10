@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hakanak
 - 👀 I’m interested in .net development and SAP/ABAP
-- 🌱 I’m currently learning Vue
+- 🌱 I’m currently learning **SAP FIORI**
 - 💞️ I’m looking to collaborate on open source project
-- 📫 How to reach me hakanak54@gmail.com
+- 📫 How to reach me **hakan@hakanak.com.tr**
 
 
 
@@ -11,12 +11,6 @@
 
 
 <p align="left"> <a href="https://twitter.com/developer_hakan" target="blank"><img src="https://img.shields.io/twitter/follow/developer_hakan?logo=twitter&style=for-the-badge" alt="developer_hakan" /></a> </p>
-
-- 🌱 I’m currently learning **SAP FIORI**
-
-- 💬 Ask me about **Vue, AngularJS, .NET Core, Javascript**
-
-- 📫 How to reach me **hakan@hakanak.com.tr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
