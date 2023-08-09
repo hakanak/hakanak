@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hakanak
 - 👀 I’m interested in .net development and SAP/ABAP
-- 🌱 I’m currently learning **SAP FIORI**
+- 🌱 I’m currently learning **Angular**
 - 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me **hakan@hakanak.com.tr**
 
